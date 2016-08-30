@@ -1,6 +1,6 @@
 {
-  "name": "test-rc5-proj",
-  "version": "0.0.0",
+  "name": "Dashboard as a Service",
+  "version": "0.0.1",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
